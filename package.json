@@ -1,0 +1,19 @@
+{
+  "name": "food-delivery-app",
+  "version": "1.0.0",
+  "description": "full full delivery system with user side app, driver side app, and admin dashboard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rush33/food-delivery-app.git"
+  },
+  "author": "Rushad Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rush33/food-delivery-app/issues"
+  },
+  "homepage": "https://github.com/rush33/food-delivery-app#readme"
+}
